@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:commands\\_administration\\signupcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\commands\\_administration\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:commands\\_administration\\signupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -302,16 +310,8 @@
       "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:models\\registrationoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\controllers\\ownershiphistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:controllers\\ownershiphistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FD158A4-9E62-4313-A6A2-E4337456585B}|Registration_System.csproj|c:\\users\\redae\\desktop\\test\\registration_system\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -717,50 +717,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "DTOs\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\JwtSettings.cs",
-              "RelativeToolTip": "DTOs\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T14:49:18.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VehicleController.cs",
-              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\VehicleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
-              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\VehicleController.cs",
-              "RelativeToolTip": "Controllers\\VehicleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T00:30:22.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OwnershipHistoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\OwnershipHistoryDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\OwnershipHistoryDTO.cs",
-              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\OwnershipHistoryDTO.cs",
-              "RelativeToolTip": "DTOs\\OwnershipHistoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T00:06:14.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "OwnerDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\OwnerDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\OwnerDTO.cs",
@@ -773,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TransferVehicleOwnershipCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\TransferVehicleOwnershipCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\TransferVehicleOwnershipCommandHandler.cs",
@@ -786,7 +747,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignupCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\SignupCommandHandler.cs",
+              "RelativeDocumentMoniker": "Commands\\_Administration\\SignupCommandHandler.cs",
+              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\SignupCommandHandler.cs*",
+              "RelativeToolTip": "Commands\\_Administration\\SignupCommandHandler.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:11:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:30:47.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:09:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OwnershipHistoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\OwnershipHistoryDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OwnershipHistoryDTO.cs",
+              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\OwnershipHistoryDTO.cs",
+              "RelativeToolTip": "DTOs\\OwnershipHistoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:06:14.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:30:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "DTOs\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\JwtSettings.cs",
+              "RelativeToolTip": "DTOs\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:49:18.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SignupCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\SignupCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\SignupCommand.cs",
@@ -799,20 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignupCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\SignupCommandHandler.cs",
-              "RelativeDocumentMoniker": "Commands\\_Administration\\SignupCommandHandler.cs",
-              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\SignupCommandHandler.cs*",
-              "RelativeToolTip": "Commands\\_Administration\\SignupCommandHandler.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:11:29.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -825,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GetOwnershipHistoryByLicensePlateQuery.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Vehicle\\GetOwnershipHistoryByLicensePlateQuery.cs",
               "RelativeDocumentMoniker": "Querys\\_Vehicle\\GetOwnershipHistoryByLicensePlateQuery.cs",
@@ -838,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GetOwnershipHistoryByLicensePlateQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Vehicle\\GetOwnershipHistoryByLicensePlateQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_Vehicle\\GetOwnershipHistoryByLicensePlateQueryHandler.cs",
@@ -851,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "TransferVehicleOwnershipCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\TransferVehicleOwnershipCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\TransferVehicleOwnershipCommand.cs",
@@ -864,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\Owner.cs",
               "RelativeDocumentMoniker": "Models\\Owner.cs",
@@ -877,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "TransferVehicleOwnershipCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\tt\\Registration_System\\Commands\\_Vehicle\\TransferVehicleOwnershipCommand.cs",
               "RelativeDocumentMoniker": "..\\tt\\Registration_System\\Commands\\_Vehicle\\TransferVehicleOwnershipCommand.cs",
@@ -890,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "VehicleDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\VehicleDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\VehicleDTO.cs",
@@ -903,7 +929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "Models\\Vehicle.cs",
@@ -916,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "RegistrationSystemDbContext.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\RegistrationSystemDbContext.cs",
               "RelativeDocumentMoniker": "Models\\RegistrationSystemDbContext.cs",
@@ -929,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "OwnershipHistory.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\OwnershipHistory.cs",
               "RelativeDocumentMoniker": "Models\\OwnershipHistory.cs",
@@ -942,7 +968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "CreateTrafficViolationCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_TrafficViolation\\CreateTrafficViolationCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_TrafficViolation\\CreateTrafficViolationCommandHandler.cs",
@@ -955,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UpdateVehicleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\UpdateVehicleCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\UpdateVehicleCommandHandler.cs",
@@ -967,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "UpdateVehicleCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\UpdateVehicleCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\UpdateVehicleCommand.cs",
@@ -979,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CreateVehicleCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\CreateVehicleCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\CreateVehicleCommand.cs",
@@ -991,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DeleteVehicleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\DeleteVehicleCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\DeleteVehicleCommandHandler.cs",
@@ -1003,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "DeleteVehicleCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\DeleteVehicleCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\DeleteVehicleCommand.cs",
@@ -1015,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "CreateVehicleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Vehicle\\CreateVehicleCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Vehicle\\CreateVehicleCommandHandler.cs",
@@ -1051,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "CreateOwnershipHistoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_OwnershipHistory\\CreateOwnershipHistoryCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_OwnershipHistory\\CreateOwnershipHistoryCommand.cs",
@@ -1063,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "GetOwnerByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Owner\\GetOwnerByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_Owner\\GetOwnerByIdQueryHandler.cs",
@@ -1075,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "GetAllOwnersQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Owner\\GetAllOwnersQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_Owner\\GetAllOwnersQueryHandler.cs",
@@ -1099,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "DriverLicenseDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\DriverLicenseDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\DriverLicenseDTO.cs",
@@ -1111,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -1123,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "DriverLicenseController.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\DriverLicenseController.cs",
               "RelativeDocumentMoniker": "Controllers\\DriverLicenseController.cs",
@@ -1135,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "DeleteDriverLicenseCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_DriverLicense\\DeleteDriverLicenseCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_DriverLicense\\DeleteDriverLicenseCommand.cs",
@@ -1159,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "GetAllDriverLicensesQuery.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_DriverLicense\\GetAllDriverLicensesQuery.cs",
               "RelativeDocumentMoniker": "Querys\\_DriverLicense\\GetAllDriverLicensesQuery.cs",
@@ -1183,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "CreateDriverLicenseCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_DriverLicense\\CreateDriverLicenseCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_DriverLicense\\CreateDriverLicenseCommand.cs",
@@ -1195,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "DeleteDriverLicenseCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_DriverLicense\\DeleteDriverLicenseCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_DriverLicense\\DeleteDriverLicenseCommandHandler.cs",
@@ -1207,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "UpdateDriverLicenseCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_DriverLicense\\UpdateDriverLicenseCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_DriverLicense\\UpdateDriverLicenseCommandHandler.cs",
@@ -1219,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "GetAllDriverLicensesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_DriverLicense\\GetAllDriverLicensesQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_DriverLicense\\GetAllDriverLicensesQueryHandler.cs",
@@ -1231,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "UpdateDriverLicenseCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_DriverLicense\\UpdateDriverLicenseCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_DriverLicense\\UpdateDriverLicenseCommand.cs",
@@ -1243,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "CreateDriverLicenseCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_DriverLicense\\CreateDriverLicenseCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_DriverLicense\\CreateDriverLicenseCommandHandler.cs",
@@ -1267,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "DriverLicense.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\DriverLicense.cs",
               "RelativeDocumentMoniker": "Models\\DriverLicense.cs",
@@ -1291,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "OwnerController.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\OwnerController.cs",
               "RelativeDocumentMoniker": "Controllers\\OwnerController.cs",
@@ -1303,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "UpdateAdministrationCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\UpdateAdministrationCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\UpdateAdministrationCommandHandler.cs",
@@ -1315,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "GetAllVehiclesQuery.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Vehicle\\GetAllVehiclesQuery.cs",
               "RelativeDocumentMoniker": "Querys\\_Vehicle\\GetAllVehiclesQuery.cs",
@@ -1327,7 +1353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "GetAllVehiclesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Vehicle\\GetAllVehiclesQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_Vehicle\\GetAllVehiclesQueryHandler.cs",
@@ -1339,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "DeleteOwnerCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Owner\\DeleteOwnerCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Owner\\DeleteOwnerCommandHandler.cs",
@@ -1351,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "DeleteOwnerCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Owner\\DeleteOwnerCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Owner\\DeleteOwnerCommand.cs",
@@ -1363,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "UpdateOwnerCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Owner\\UpdateOwnerCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Owner\\UpdateOwnerCommand.cs",
@@ -1375,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "UpdateOwnerCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Owner\\UpdateOwnerCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Owner\\UpdateOwnerCommandHandler.cs",
@@ -1387,7 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "GetAllAdministrationsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Administration\\GetAllAdministrationsQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_Administration\\GetAllAdministrationsQueryHandler.cs",
@@ -1399,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "InsuranceDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\InsuranceDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\InsuranceDTO.cs",
@@ -1411,7 +1437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "AdministrationController.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\AdministrationController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdministrationController.cs",
@@ -1423,7 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "GetAllAdministrationsQuery.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Administration\\GetAllAdministrationsQuery.cs",
               "RelativeDocumentMoniker": "Querys\\_Administration\\GetAllAdministrationsQuery.cs",
@@ -1447,7 +1473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "DeleteAdministrationCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\DeleteAdministrationCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\DeleteAdministrationCommandHandler.cs",
@@ -1459,7 +1485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "CreateAdministrationCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\CreateAdministrationCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\CreateAdministrationCommandHandler.cs",
@@ -1471,7 +1497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "DeleteAdministrationCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\DeleteAdministrationCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\DeleteAdministrationCommand.cs",
@@ -1483,7 +1509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "UpdateAdministrationCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\UpdateAdministrationCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\UpdateAdministrationCommand.cs",
@@ -1495,7 +1521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "CreateAdministrationCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\CreateAdministrationCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\CreateAdministrationCommand.cs",
@@ -1507,7 +1533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "LoginCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\LoginCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\LoginCommandHandler.cs",
@@ -1519,7 +1545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "LoginCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Administration\\LoginCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Administration\\LoginCommand.cs",
@@ -1531,7 +1557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "CreateOwnerCommand.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Owner\\CreateOwnerCommand.cs",
               "RelativeDocumentMoniker": "Commands\\_Owner\\CreateOwnerCommand.cs",
@@ -1543,7 +1569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "AdministrationDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\AdministrationDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\AdministrationDTO.cs",
@@ -1555,7 +1581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "Administration.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\Administration.cs",
               "RelativeDocumentMoniker": "Models\\Administration.cs",
@@ -1567,7 +1593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "CreateOwnerCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Commands\\_Owner\\CreateOwnerCommandHandler.cs",
               "RelativeDocumentMoniker": "Commands\\_Owner\\CreateOwnerCommandHandler.cs",
@@ -1579,7 +1605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "GetAllOwnershipHistoriesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_OwnershipHistory\\GetAllOwnershipHistoriesQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_OwnershipHistory\\GetAllOwnershipHistoriesQueryHandler.cs",
@@ -1591,7 +1617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "GetOwnershipHistoryQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_OwnershipHistory\\GetOwnershipHistoryQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_OwnershipHistory\\GetOwnershipHistoryQueryHandler.cs",
@@ -1603,7 +1629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "GetVehicleByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Vehicle\\GetVehicleByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Querys\\_Vehicle\\GetVehicleByIdQueryHandler.cs",
@@ -1615,7 +1641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Notification.cs",
@@ -1627,7 +1653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "CategorieDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\CategorieDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\CategorieDTO.cs",
@@ -1639,7 +1665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "TrafficViolation.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\TrafficViolation.cs",
               "RelativeDocumentMoniker": "Models\\TrafficViolation.cs",
@@ -1651,7 +1677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "InspectionRecord.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\InspectionRecord.cs",
               "RelativeDocumentMoniker": "Models\\InspectionRecord.cs",
@@ -1663,7 +1689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "Insurance.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\Insurance.cs",
               "RelativeDocumentMoniker": "Models\\Insurance.cs",
@@ -1675,7 +1701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "LicensePlate.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\LicensePlate.cs",
               "RelativeDocumentMoniker": "Models\\LicensePlate.cs",
@@ -1687,7 +1713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "LicensePlateDTO.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\DTOs\\LicensePlateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\LicensePlateDTO.cs",
@@ -1699,7 +1725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "LicensePlateController.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\LicensePlateController.cs",
               "RelativeDocumentMoniker": "Controllers\\LicensePlateController.cs",
@@ -1711,7 +1737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "GetVehicleByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Querys\\_Vehicle\\GetVehicleByIdQuery.cs",
               "RelativeDocumentMoniker": "Querys\\_Vehicle\\GetVehicleByIdQuery.cs",
@@ -1723,7 +1749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "RegistrationOffice.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Models\\RegistrationOffice.cs",
               "RelativeDocumentMoniker": "Models\\RegistrationOffice.cs",
@@ -1735,19 +1761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T22:09:58.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "OwnershipHistoryController.cs",
               "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\OwnershipHistoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\OwnershipHistoryController.cs",
@@ -1756,18 +1770,6 @@
               "ViewState": "AgIAADIAAAAAAAAAAAA0wE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T00:10:27.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\redae\\Desktop\\test\\Registration_System\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:30:47.344Z"
             },
             {
               "$type": "Document",
